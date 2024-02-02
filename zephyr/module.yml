@@ -1,0 +1,4 @@
+name: kissfft
+build:
+  cmake-ext: True
+  kconfig-ext: True
